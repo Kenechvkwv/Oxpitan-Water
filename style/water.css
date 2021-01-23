@@ -1,0 +1,240 @@
+nav {
+    display: block;
+}
+
+nav div {
+    background: white; 
+}
+
+nav ul li {
+    display: inline;
+    padding: 30px;
+}
+
+nav ul li img {
+    margin-right: 100px;
+    width: 200px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black; font-size: 18px;
+}
+.dn{font-size: 18px;}
+
+.bg h1 {
+    font-size: 65px;
+    text-align: center;
+    padding: 60px;
+}
+
+.bg {
+    background: lightgray;
+}
+
+.bg h4 {
+    margin-left: 70px;
+}
+
+.content article .ar img {
+    margin-left: 70px;
+}
+
+.rectangle {
+    background: orange;
+    width: 20%;
+    height: 8px;
+    margin-left: 70px;
+    margin-top: -38px;
+}
+
+.btn {
+    margin-left: 70px;
+    color: white;
+    font-weight: bold;
+}
+
+.heading {
+    margin-left: 70px;
+}
+
+.moneyarea {
+    margin-left: 70px;
+}
+
+.donate {
+    margin-left: 70px;
+}
+
+.firsttextcontent {
+    margin-left: 70px;
+    width: 50%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: rgb(71, 68, 68);
+}
+
+.secondtextcontent {
+    margin-left: 70px;
+    width: 50%;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: rgb(71, 68, 68);
+}
+
+.secondtextcontent img {
+    float: right;
+}
+
+#contentblue {
+    background: rgba(135, 180, 207, 0.911);
+    padding: 40px; border-radius: 10px;
+}
+
+aside {
+    float: right;
+    width: 25%;
+    margin-right: 150px;
+}
+
+.sidenavmain {
+    background: lightgray;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    padding: 25px;
+    justify-content: left;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.category {
+    list-style: none;
+}
+
+.sidenavmain li {
+    margin-top: 20px;
+}
+
+.sidenav {
+    background: lightgray;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    padding: 25px;
+}
+
+#redspan {
+    color: coral;
+}
+
+#readmore {
+    text-decoration: none;
+    color: white;
+    background: turquoise;
+    font-size: 14px;
+    padding: 10px;
+    clip-path: polygon(0 0, 100% 0, 89% 100%, 0% 100%);
+}
+
+#readmore2 {
+    text-decoration: none;
+    color: white;
+    background: coral;
+    font-size: 14px;
+    padding: 10px;
+    clip-path: polygon(0 0, 100% 0, 89% 100%, 0% 100%);
+}
+
+#readmore3 {
+    text-decoration: none;
+    color: white;
+    background: orange;
+    font-size: 14px;
+    padding: 10px;
+    clip-path: polygon(0 0, 100% 0, 89% 100%, 0% 100%);
+}
+
+.sidenav {
+    padding-bottom: 100px;
+}
+
+.footer {
+    background-image: url('../media/bg-footer.jpg');
+}
+
+.footercol {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.ftcol1 {
+    margin-right: 75px;
+}
+
+.ftcol2 {
+    margin-right: 75px;
+}
+
+.ftcol3 {
+    margin-right: 75px;
+}
+
+.ftcol4 {
+    margin-right: 75px;
+}
+
+.ftcol5 {
+    margin-right: 75px;
+}
+
+.ftp {
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.ftul {
+    list-style: none;
+}
+
+.ftli {
+    margin-bottom: 30px;
+}
+
+.percentage {
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 20% 75%, 0 100%, 0 75%, 0% 75%); background:orange; width: 60px; padding: 8px; padding-left: 25px;
+    position: relative; left:336px; bottom:35px;
+}
+
+.btfly{display: flex; justify-content: center;}
+
+.btfly img {
+    margin-top: 100px;
+}
+
+.newsletter {
+    color:white; font-weight: bold;
+    font-size: 55px; text-align: center;
+    margin-top: 0;
+}
+
+.update {
+    color:purple; text-align:center; font-weight: bold; margin-top: -50px; font-size: 18px;  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.subscribe {display: flex; justify-content: center;}
+
+.lastbtn {clip-path: polygon(0 0, 100% 0, 83% 100%, 0% 100%); background: coral; border:none; padding: 20px; width:10%; color: white; font-weight: bold;}
+
+.input {background: rgba(0, 0, 0, 0.61);
+width:30%; border:none; outline: none;}
+
+.ftli i {
+    padding:15px; 
+}
+
+
